@@ -12,7 +12,7 @@ Para facilitar o entendimento, dentro dos exercicios deixarei comentado os requi
 
 As matérias que se encontram nesse repositório:
 
- **[Programação Imperativa](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/programacao-imperativa.)**
+ **[Programação Imperativa](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/programacao-imperativa)**
 
 
 Metas de realização da matéria:
