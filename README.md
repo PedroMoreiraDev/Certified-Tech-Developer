@@ -23,6 +23,20 @@ Metas de realização da matéria:
  - Saber a quais documentações e comunidades recorrer para resolver problemas e manter-se atualizado sobre cada um dos conteúdos aprendidos.
  - Formar bases teóricas sólidas.
  - Adquirir autonomia ao incorporar novos conhecimentos.
+
+ ## Front End I
+ 
+ ## Banco de Dados
+ 
+ ## Introdução à Informática
+
+ ## Metodologias Ágeis
+
+ ## Learning Agility
+
+ 
+ 
+ 
  
  ## Grade curricular completa do curso:
  
