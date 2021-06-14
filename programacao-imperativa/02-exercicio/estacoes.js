@@ -18,9 +18,9 @@ Situação 5 – Caso não se aplique nenhuma das opções acima, deve exibir no
 
 */
 
-estacao = function(estacaoDoAno)
+season = function(seasonOfTheYear)
 {
-    switch(estacaoDoAno){
+    switch(seasonOfTheYear){
         case "Verão":
             console.log("Que calor, ein?!.");
             break;
@@ -43,4 +43,4 @@ estacao = function(estacaoDoAno)
 
 }
 
-estacao("inverno")
+season("inverno")

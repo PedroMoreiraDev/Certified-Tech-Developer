@@ -5,18 +5,18 @@ Em caso de autorização, exiba a mensagem: “Acesso autorizado” ou “Acesso
 Em caso de impedimento, exiba a mensagem: “Acesso negado..”
 */
 
-function podeSubir(alturaDaPessoa, acompanhada)
+function canGoUp(height, accompany)
 {
 
-    if (alturaDaPessoa < 1.20)
+    if (height < 1.20)
     {
         return ("Acesso negado.");
     }
-    else if(alturaDaPessoa > 1.40 && alturaDaPessoa < 2.00)
+    else if(height > 1.40 && height < 2.00)
     {
         return ("Acesso autorizado.");
     }
-    else if (alturaDaPessoa < 1.40 && acompanhada == true)
+    else if (height < 1.40 && accompany == true)
     {
         return ("Acesso autorizado somente com acompanhante");
     }
@@ -27,4 +27,4 @@ function podeSubir(alturaDaPessoa, acompanhada)
     
 }
 
-console.log(podeSubir(1.49,false))
+console.log(canGoUp(1.49,false))

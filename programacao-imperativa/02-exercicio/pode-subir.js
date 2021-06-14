@@ -13,18 +13,18 @@ Se a pessoa medir menos de 1.20m, não poderá subir, nem acompanhada..
 
 */
 
-function podeSubir(alturaDaPessoa, acompanhada)
+function canGoUp(height, accompany)
 {
 
-    if (alturaDaPessoa < 1.20)
+    if (height < 1.20)
     {
         return (false);
     }
-    else if(alturaDaPessoa > 1.40 && alturaDaPessoa < 2.00)
+    else if(height > 1.40 && height < 2.00)
     {
         return (true);
     }
-    else if (alturaDaPessoa < 1.40 && acompanhada == true)
+    else if (height < 1.40 && accompany == true)
     {
         return (true);
     }
@@ -35,4 +35,4 @@ function podeSubir(alturaDaPessoa, acompanhada)
     
 }
 
-console.log(podeSubir(1.49,false))
+console.log(canGoUp(1.49,false))
