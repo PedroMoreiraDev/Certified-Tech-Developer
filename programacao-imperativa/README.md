@@ -6,5 +6,3 @@
  - Saber a quais documentações e comunidades recorrer para resolver problemas e manter-se atualizado sobre cada um dos conteúdos aprendidos.
  - Formar bases teóricas sólidas.
  - Adquirir autonomia ao incorporar novos conhecimentos.
-
- ## [Exercicios e Projetos](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/programacao-imperativa)
