@@ -1,0 +1,33 @@
+header {
+    border: 2px solid gray;
+    padding: 30px;
+    margin: 30px;
+}
+
+main {
+    border: 2px solid gray;
+    padding: 30px;
+    margin: 30px;
+}
+
+section {
+    border-top: 2px dotted;
+    border-bottom: 2px dotted;
+
+}
+span {
+    color: white;
+    background-color: purple;
+}
+
+article {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: purple;
+}
+
+footer {
+    border: 2px solid gray;
+    padding: 30px;
+    margin: 30px;
+}
