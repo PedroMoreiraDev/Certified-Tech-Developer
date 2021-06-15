@@ -12,27 +12,18 @@ Estes eixos são: **Fundamentos**, **Front-end**, **Back-end**, **Infraestrutura
 Abaixo, estarão listadas as matérias praticadas durante o curso.
 
 
- ## [Programação Imperativa](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/programacao-imperativa)
+ - [Programação Imperativa](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/programacao-imperativa)
 
+ - [Front End I](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/front-end-1)
 
-Metas de realização da matéria:
+ - [Banco de Dados](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/banco-de-dados)
 
- - Gerar soluções programáveis para o problema de um determinado contexto.
- - Adquirir o conhecimento necessário para desenvolver código Javascript imperativo.
- - Identificar as falhas em um projeto e implementar as modificações necessárias para resolvê-las.
- - Saber a quais documentações e comunidades recorrer para resolver problemas e manter-se atualizado sobre cada um dos conteúdos aprendidos.
- - Formar bases teóricas sólidas.
- - Adquirir autonomia ao incorporar novos conhecimentos.
+ - [Introdução à Informática](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/introducao-a-informatica)
 
- ## Front End I
- 
- ## Banco de Dados
- 
- ## Introdução à Informática
+ - [Metodologias Ágeis](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/metodologias-ageis)
 
- ## Metodologias Ágeis
+ - [Learning Agility](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/learn-agility)
 
- ## Learning Agility
 
  
  
