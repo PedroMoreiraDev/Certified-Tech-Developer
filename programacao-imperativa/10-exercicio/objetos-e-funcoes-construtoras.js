@@ -11,10 +11,9 @@ let cardapio=['polvo, peixe frito, hamburguer de siri']
 function Restaurante(nome)
 {
     this.nomeRestaurante = nome
-   this.cardapioRestaurante = cardapio
-
+    this.cardapioRestaurante = cardapio
+    this.cardapio = function(){console.log("Seja bem-vindo ao " + this.nomeRestaurante+ "!\nEm nosso cardapio temos: "+ this.cardapioRestaurante)}
 }
+const construcao = new Restaurante('Siri Cascudo')
 
-const entrada = new Restaurante('Siri Cascudo' )
-
-console.log("Seja bem-vindo ao " + entrada.nomeRestaurante+ "!\nEm nosso cardapio temos: "+ entrada.cardapioRestaurante)
+console.log(construcao.cardapio())
