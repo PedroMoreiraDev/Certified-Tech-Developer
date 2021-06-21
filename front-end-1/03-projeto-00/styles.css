@@ -1,0 +1,167 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(22, 16, 16);
+    margin: 0;
+
+    font-family: 'Noto Sans JP', sans-serif;
+}
+/*===============================NAV===============================================*/
+
+#menu{
+    width: 100%;
+    height: 15%;
+    position: fixed;
+    opacity: 90%;
+}
+.opcoes{
+    text-transform: uppercase;
+    text-align: center;
+}
+.logo{
+    position: relative;
+    left: 5%;
+    height: 45%;
+    top: 10%;
+}
+a{color: rgb(141, 104, 104);
+
+    border-style: dashed;
+    border-color: green;
+}
+a:link, a:visited {
+	text-decoration: none
+	}
+a:hover {
+	color: white
+	}
+a:active {
+	text-decoration: none
+	}
+
+#menu ul li{
+display: inline-block;
+text-align: center;
+padding: 2px 8px;
+position: relative;
+}
+
+#hardware-img{
+    position: relative;
+    bottom: 20px;
+    height: 50px;
+    left: 80px;
+    
+    }
+    #software-img{
+        position: relative;
+    bottom: 20px;
+    height: 50px;
+    left: 80px;
+    }
+    
+    #comunidade-img{
+        position: relative;
+    bottom: 20px;
+    height: 50px;
+    left: 80px;
+    }
+    
+    #store-img{
+        position: relative;
+    bottom: 20px;
+    height: 50px;
+    left: 60px;
+    }
+    
+    #suporte-img{
+        position: relative;
+    bottom: 20px;
+    height: 50px;
+    left: 70px;
+    }
+    
+    
+
+
+
+/*===============================BODY==============================================*/
+.row
+{
+    width: 100%;
+    height: 150%;
+    top: 15%;
+    margin: 5px;
+    margin-top: 10%;
+
+}
+
+.img1{
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    top: 105%;
+    left: 10%;
+}
+
+.img2{
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    top: 105%;
+    left: 40%;
+}
+.img3{
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    top: 105%;
+    left: 70%;
+}
+
+/*===============================FOOTER===========================================*/
+
+footer{
+    color: white;
+    position: absolute;
+    top: 140%;
+    padding: 0px 10%;
+    word-spacing: 10px;
+
+}
+
+/* ==================================Pag Hardware==================================*/
+
+p{
+    color: white;
+    margin-bottom: 20px;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+.texto1{
+    width: 50%;
+    left: 0%;
+    text-align: justify;
+    line-height: 200%;
+}
+.texto2{
+width: 50%;
+position: absolute;
+left: 50%;
+top: 0%;
+text-align: justify;
+padding: 0.5%;
+line-height: 200%;
+}
+
+#wpp{
+
+    width: 70px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}

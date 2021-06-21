@@ -6,13 +6,13 @@ Crie uma função construtora chamada Restaurante, que receba como parâmetros o
 
 Após isso chame a função entrada() dentro do objeto, que irá trazer uma mensagem de boas-vindas, informando o nome do restaurante, e o cardápio. */
 
-let cardapio=['polvo, peixe frito, hamburguer de siri']
+let cardapio=["polvo", "peixe frito", "hamburguer de siri"]
 
 function Restaurante(nome)
 {
     this.nomeRestaurante = nome
     this.cardapioRestaurante = cardapio
-    this.cardapio = function(){console.log("Seja bem-vindo ao " + this.nomeRestaurante+ "!\nEm nosso cardapio temos: "+ this.cardapioRestaurante)}
+    this.cardapio = function(){console.log("Seja bem-vindo ao " + this.nomeRestaurante + "!\nEm nosso cardapio temos: "+ this.cardapioRestaurante)}
 }
 const construcao = new Restaurante('Siri Cascudo')
 
