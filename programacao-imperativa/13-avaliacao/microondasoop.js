@@ -18,7 +18,7 @@ const userChoice = new UserInput(construcTime, constructFood)
 
     for (i = 0; i < foodOptions.food.length; i++)
     {
-        if(userChoice.inputFood != foodOptions.food[i])
+        if(userChoice.inputFood.includes(!foodOptions.food[i]))
         {
             return  console.log("prato inexistente")
         }
@@ -40,6 +40,6 @@ const userChoice = new UserInput(construcTime, constructFood)
         return console.log("prato pronto, bom apetite!")
     }
 }
-microondas(8, 'pipoca')
+microondas(100, 'pipoca')
 
 
