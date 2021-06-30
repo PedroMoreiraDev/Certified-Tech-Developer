@@ -16,7 +16,6 @@ time: [10, 8, 15, 12, 8]
 
 function microondas()
 {
-
 //loop para percorrer food0ptions e comparar com a criacao
 
     
@@ -39,10 +38,10 @@ function microondas()
         return console.log("tempo insuficiente")
         }
         return console.log("prato pronto, bom apetite!")
-    }
+        }
 
-}
-console.log("prato inexistente")
+    }
+    console.log("prato inexistente")
 }
 microondas()
 
