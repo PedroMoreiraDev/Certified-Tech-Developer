@@ -11,10 +11,13 @@ Estes eixos são: **Fundamentos**, **Front-end**, **Back-end**, **Infraestrutura
 
 Abaixo, estarão listadas as matérias praticadas durante o curso.
 
+ - [Programação Orientada a Objetos](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/programacao-orientada-a-objetos)
 
  - [Programação Imperativa](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/programacao-imperativa)
 
  - [Front End I](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/front-end-1)
+
+ - [Front End II](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/front-end-2)
 
  - [Banco de Dados](https://github.com/PedroMoreiraDev/Certified-Tech-Developer/tree/master/banco-de-dados)
 
