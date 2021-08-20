@@ -3,9 +3,6 @@ let dividir = function (primeiroValor, segundoValor){
         return "Não é possivel dividir por 0"
     }
        else
-         alert(primeiroValor / segundoValor)
+         return alert(primeiroValor / segundoValor)
 }
-
-console.log(dividir(0,2))
-
 modulo.exports=dividir
